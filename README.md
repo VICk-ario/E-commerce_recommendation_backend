@@ -1,4 +1,3 @@
-# trading_AI
 # Trading AI
 
 A comprehensive AI-powered trading platform for [brief description of purpose, e.g., algorithmic trading, market analysis, strategy backtesting].
