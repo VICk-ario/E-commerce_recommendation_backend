@@ -1,9 +1,18 @@
-# Trading AI
+# E-commerce Recommendation Engine Backend
 
-A comprehensive AI-powered trading platform for [brief description of purpose, e.g., algorithmic trading, market analysis, strategy backtesting].
+[![Django CI](https://github.com/yourusername/ecommerce-recommender-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/ecommerce-recommender-backend/actions/workflows/ci.yml)
+[![Docker Image](https://img.shields.io/badge/docker-available-blue.svg)](https://hub.docker.com/r/yourusername/recommendation-backend)
 
-## Project Structure
-(Will add more details here later)
+AI-powered recommendation engine for e-commerce stores. Provides personalized product recommendations through REST APIs.
 
-## Getting Started
-(Will add installation and usage instructions)
+## 🚀 Features
+
+- **Multi-tenant Architecture** - Support for multiple e-commerce stores
+- **Machine Learning Models** - Collaborative filtering, content-based, and hybrid recommendations
+- **Real-time Tracking** - User behavior tracking and analytics
+- **REST API** - Comprehensive API for integrations
+- **Admin Dashboard** - Django admin for store management
+- **Redis Caching** - High-performance recommendation caching
+- **Celery Workers** - Background task processing
+
+## 🏗️ Architecture
