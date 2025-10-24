@@ -1,7 +1,5 @@
 # E-commerce Recommendation Engine Backend
 
-[![Django CI](https://github.com/yourusername/ecommerce-recommender-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/ecommerce-recommender-backend/actions/workflows/ci.yml)
-[![Docker Image](https://img.shields.io/badge/docker-available-blue.svg)](https://hub.docker.com/r/yourusername/recommendation-backend)
 
 AI-powered recommendation engine for e-commerce stores. Provides personalized product recommendations through REST APIs.
 
