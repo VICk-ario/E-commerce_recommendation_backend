@@ -30,4 +30,10 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('health/', health_check),
     path('', include('apps.stores.urls')),
+    path('', include('apps.products.urls')),
+    path('', include('apps.users.urls')),
+    path('', include('apps.interactions.urls')),
+    path('', include('apps.recommendations.urls'))
+    
+    
 ]

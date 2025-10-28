@@ -45,9 +45,14 @@ INSTALLED_APPS = [
     #third party apps
     'rest_framework',
     'corsheaders',
+    'django_filters',
     
     #local apps
-    'apps.stores'
+    'apps.stores',
+    'apps.products',
+    'apps.users',
+    'apps.interactions',
+    'apps.recommendations'
 ]
 
 # Add REST Framework configuration
