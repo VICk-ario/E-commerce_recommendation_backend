@@ -33,7 +33,7 @@ urlpatterns = [
     path('', include('apps.products.urls')),
     path('', include('apps.users.urls')),
     path('', include('apps.interactions.urls')),
-    path('', include('apps.recommendations.urls'))
-    
-    
+    path('', include('apps.recommendations.urls')),
+    path('', include('apps.analytics.urls')),
+    path('', include('apps.ml_engine.urls'))   
 ]

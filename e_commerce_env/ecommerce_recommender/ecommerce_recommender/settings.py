@@ -52,7 +52,9 @@ INSTALLED_APPS = [
     'apps.products',
     'apps.users',
     'apps.interactions',
-    'apps.recommendations'
+    'apps.recommendations',
+    'apps.analytics',
+    'apps.ml_engine'
 ]
 
 # Add REST Framework configuration
